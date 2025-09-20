@@ -1,0 +1,465 @@
+title_cleaned,county,county_fips,state,grouped_company,grouped_source_jt,job_posting_count,label
+account manager advisor,San Bernardino County,6071,CA,Southern California Edison (SCE),Account Manager Advisor,2,interconnection reference
+accountant,Silver Bow County,30093,MT,NorthWestern Energy,Accountant,3,interconnection reference
+accountant lead miscellaneous receivables,Orleans Parish,22071,LA,Entergy,Accountant Lead Miscellaneous Receivables,1,interconnection reference
+accountant miscellaneous receivables,Orleans Parish,22071,LA,Entergy,Accountant Miscellaneous Receivables,1,interconnection reference
+analyst renewable programs,Hampshire County,25015,MA,Eversource Energy,Analyst Renewable Programs,1,interconnection reference
+analyst water planning,Maricopa County,4013,AZ,Salt River Project,Analyst Water Planning,1,interconnection reference
+applications support engineer analyst,Fulton County,13121,GA,Georgia Power Company,Applications Support Engineer Analyst,1,interconnection engineer
+area reliability engineer,Clarke County,13059,GA,Southern Company,Area Reliability Engineer,1,interconnection engineer
+area reliability engineer,Lowndes County,13185,GA,Southern Company,Area Reliability Engineer,1,interconnection engineer
+assistant director electric utility,Franklin County,42055,PA,Borough of Chambersburg,Assistant Director of Electric Utility,3,interconnection reference
+assistant general counsel,Knox County,47093,TN,Tennessee Valley Authority,Assistant General Counsel,1,interconnection reference
+assistant general counsel,Multnomah County,41051,OR,PacifiCorp,Assistant General Counsel,9,interconnection reference
+assistant general counsel power and transmission,Westchester County,36119,NY,New York Power Authority,Assistant General Counsel Power and Transmission,2,interconnection reference
+assoc interconnection specialist,Warren County,34041,NJ,Exelon,Assoc Interconnection Specialist,1,interconnection reference
+associate egi interconnection manager esc,Alameda County,6001,CA,Pacific Gas and Electric Company,Associate EGI Interconnection Manager ESC,1,interconnection reference
+associate electric distribution operations engineer,Fresno County,6019,CA,Pacific Gas and Electric Company,Associate Electric Distribution Operations Engineer,1,interconnection engineer
+associate electrical engineer power enterprise,San Francisco County,6075,CA,San Francisco Public Utilities Commission,Associate Electrical Engineer Power Enterprise,4,interconnection engineer
+associate electrical engineer transmission relay,Harris County,48201,TX,CenterPoint Energy,Associate Electrical Engineer Transmission Relay,1,interconnection engineer
+associate energy efficiency consultant demand management,Norfolk County,25021,MA,Eversource Energy,"Associate Energy Efficiency Consultant, Demand Management (Hybrid)",1,interconnection reference
+associate engineer,Wayne County,26163,MI,DTE Energy,Engineer Associate,1,interconnection engineer
+associate engineer a,Rockland County,36087,NY,"Orange and Rockland Utilities, Inc.",Associate Engineer A,1,interconnection engineer
+associate engineer distributed energy resource der planning,Hampshire County,25015,MA,Eversource Energy,Associate Engineer – Distributed Energy Resource (DER) Planning (Hybrid),1,interconnection engineer
+associate engineer distribution planning asset management,Albany County,36001,NY,National Grid,Graduate Development Program Associate Engineer Distribution Planning and Asset Management,2,interconnection engineer
+associate engineer electrical planning and design,Erie County,36029,NY,National Grid,Associate Engineer Electrical Planning and Design,3,interconnection engineer
+associate engineer electrical planning and design,Onondaga County,36067,NY,National Grid,Associate Engineer Electrical Planning and Design; Graduate Development Program Associate Engineer Electrical Planning and Design,7,interconnection engineer
+associate engineer electrical planning and design,Onondaga County,36067,NY,National Grid,Associate Engineer Electrical Planning and Design,7,interconnection engineer
+associate engineer electrical planning and design,Onondaga County,36067,NY,National Grid,Graduate Development Program Associate Engineer Electrical Planning and Design,7,interconnection engineer
+associate engineer electrical planning and design,Worcester County,25027,MA,National Grid,Associate Engineer Electrical Planning and Design,1,interconnection engineer
+associate engineer protection & controls,Hartford County,9110,CT,Eversource Energy,Associate Engineer Protection & Controls,1,interconnection engineer
+associate engineer system planning,Westchester County,36119,NY,New York Power Authority,Associate System Planning Engineer,1,interconnection engineer
+associate protection engineer,Contra Costa County,6013,CA,Pacific Gas and Electric Company,Associate Protection Engineer,1,interconnection engineer
+associate regulatory rates analyst,Harris County,48201,TX,CenterPoint Energy,Associate Regulatory Rates Analyst,2,interconnection reference
+associate systems engineer,Hartford County,9110,CT,Eversource Energy,Associate Systems Engineer,1,interconnection engineer
+associate transmission planning engineer,Alameda County,6001,CA,Pacific Gas and Electric Company,Associate Transmission Planning Engineer,1,interconnection engineer
+associate transmission system operator,Douglas County,31055,NE,Omaha Public Power District,Associate Transmission System Operator,2,interconnection reference
+bulk power operations planning support engineer generator interconnection,Jefferson County,1073,AL,Southern Company,Bulk Power Operations Planning Support Engineer Generator Interconnection,1,interconnection engineer
+business process analyst principal,Alameda County,6001,CA,Pacific Gas and Electric Company,Principal Business Process Analyst,1,interconnection reference
+cehe electric engineer,Harris County,48201,TX,CenterPoint Energy,CEHE Electric Engineer,2,interconnection engineer
+charge ready senior project manager,Los Angeles County,6037,CA,Southern California Edison (SCE),Charge Ready Senior Project Manager,1,interconnection reference
+chief construction inspector,New York County,36061,NY,Con Edison Company of New York,Chief Construction Inspector,1,interconnection reference
+civil engineering intern,Ada County,16001,ID,Idaho Power,Civil Engineering Intern,1,interconnection engineer
+clean transportation electric vehicle infrastructure manager,Denver County,8031,CO,Xcel Energy,Clean Transportation Electric Vehicle Infrastructure Manager,1,interconnection reference
+consultant customer energy integration,Albany County,36001,NY,National Grid,Consultant Customer Energy Integration,1,interconnection reference
+consultant customer energy integration,Erie County,36029,NY,National Grid,Consultant Customer Energy Integration,4,interconnection reference
+consultant customer energy integration,Onondaga County,36067,NY,National Grid,Consultant Customer Energy Integration,2,interconnection reference
+consultant customer energy integration,Worcester County,25027,MA,National Grid,"Consultant, Customer Energy Integration",2,interconnection reference
+consultant customer energy integration,Worcester County,25027,MA,National Grid,Consultant Customer Energy Integration,2,interconnection reference
+consultant customer energy integration,Worcester County,25027,MA,National Grid,"Consultant Customer Energy Integration; Consultant, Customer Energy Integration",2,interconnection reference
+consultant renewable energy connections customer energy integration,Albany County,36001,NY,National Grid,Consultant Renewable Energy Connections Customer Energy Integration,2,interconnection reference
+consultant renewable energy connections customer energy integration,Onondaga County,36067,NY,National Grid,Consultant Renewable Energy Connections Customer Energy Integration,1,interconnection reference
+consulting quantitative risk analyst,King County,53033,WA,Puget Sound Energy,Consulting Quantitative Risk Analyst,2,interconnection reference
+contract financial operations manager,Los Angeles County,6037,CA,Southern California Edison,Contract Financial Operations Manager,2,interconnection reference
+contract financial operations manager,Los Angeles County,6037,CA,Southern California Edison (SCE),Contract Financial Operations Manager,2,interconnection reference
+contract financial operations manager,Los Angeles County,6037,CA,Southern California Edison; Southern California Edison (SCE),Contract Financial Operations Manager,2,interconnection reference
+customer generation senior manager,Los Angeles County,6037,CA,Southern California Edison (SCE),Customer Generation Senior Manager,2,interconnection reference
+customer generation senior manager,Los Angeles County,6037,CA,Southern California Edison,Customer Generation Senior Manager,2,interconnection reference
+customer generation senior manager,Los Angeles County,6037,CA,Southern California Edison; Southern California Edison (SCE),Customer Generation Senior Manager,2,interconnection reference
+customer operations senior specialist,Los Angeles County,6037,CA,Southern California Edison (SCE),Customer Operations Senior Specialist,3,interconnection reference
+customer project manager a,New York County,36061,NY,Con Edison Company of New York,Customer Project Manager A,1,interconnection reference
+customer service reliability program specialist,Clark County,53011,WA,Bonneville Power Administration,Customer Service Reliability Program Specialist,1,interconnection reference
+der ferc derms strategy consultant,Hennepin County,27053,MN,Xcel Energy,DER FERC DERMS Strategy Consultant,1,interconnection reference
+design engineer,Alameda County,6001,CA,Pacific Gas and Electric Company,Design Engineer,1,interconnection engineer
+dg engineer,Penobscot County,23019,ME,Versant Power,DG ENGINEER,2,interconnection engineer
+director distribution system planning,Hartford County,9110,CT,Eversource Energy,Director Distribution System Planning,1,interconnection reference
+director of engineering,Grafton County,33009,NH,New Hampshire Electric Cooperative,Director of Engineering,1,interconnection engineer
+director policy,Travis County,48453,TX,TXU Energy,Director Policy,1,interconnection reference
+director transmission and distribution operations,Clackamas County,41005,OR,Portland General Electric,Director Transmission and Distribution Operations,2,interconnection reference
+director transmission services,Henrico County,51087,VA,Old Dominion Electric Cooperative (ODEC),Director of Transmission Services,2,interconnection reference
+director utilities,Alameda County,6001,CA,Port of Oakland,DIRECTOR OF UTILITIES,1,interconnection reference
+distributed energy resources manager,DeKalb County,13089,GA,Oglethorpe Power Corporation,Distributed Energy Resources Manager,1,interconnection reference
+distribution design associate renewables,Madison County,17119,IL,Ameren,Distribution Design Associate Renewables,1,interconnection reference
+distribution performance engineer analyst,Marquette County,26103,MI,Upper Peninsula Power Company,Distribution Performance Engineer Analyst,1,interconnection engineer
+distribution planning engineer iii,Douglas County,31055,NE,Omaha Public Power District,Distribution Planning Engineer III,2,interconnection engineer
+distribution planning intern,Denver County,8031,CO,Xcel Energy,Distribution Planning Intern,2,interconnection reference
+distribution support manager,Fulton County,13121,GA,Georgia Power Company,Distribution Support Manager,1,interconnection reference
+e mobility utility coordination manager,New York County,36061,NY,Con Edison Company of New York,E Mobility Utility Coordination Manager,1,interconnection reference
+e mobility utility coordination senior specialist,New York County,36061,NY,Con Edison Company of New York,E Mobility Utility Coordination Senior Specialist,1,interconnection reference
+egi account representative,Alameda County,6001,CA,Pacific Gas and Electric Company,EGI Account Representative,1,interconnection reference
+electric distribution engineer associate,Sacramento County,6067,CA,Pacific Gas and Electric Company,Electric Distribution Engineer Associate,1,interconnection engineer
+electric transmission specialist,Minnehaha County,46099,SD,NorthWestern Energy,Electric Transmission Specialist,1,interconnection reference
+electrical engineer,Berkeley County,45015,SC,SANTEE COOPER,Electrical Engineer,1,interconnection engineer
+electrical engineer,Cowlitz County,53015,WA,Bonneville Power Administration,Electrical Engineer,1,interconnection engineer
+electrical engineer,McLean County,17113,IL,Corn Belt Energy Corporation,Electrical Engineer,2,interconnection engineer
+electrical engineer assistant 1,King County,53033,WA,Seattle City Light,Electrical Engineer Assistant 1,1,interconnection engineer
+electrical engineer associate grid,King County,53033,WA,Seattle City Light,Associate Electrical Engineer Grid; Electrical Engineer Associate Grid,2,interconnection engineer
+electrical engineer cehe,Harris County,48201,TX,CenterPoint Energy,Electrical Engineer CEHE,1,interconnection engineer
+electrical engineer distributed generation,Penobscot County,23019,ME,Versant Power,ELECTRICAL ENGINEER DISTRIBUTED GENERATION,1,interconnection engineer
+electrical engineer i,Burleigh County,38015,ND,Basin Electric Power Cooperative,Electrical Engineer I,1,interconnection engineer
+electrical engineer ii cehe relay scada,Harris County,48201,TX,CenterPoint Energy,Electrical Engineer II CEHE Relay and SCADA,1,interconnection engineer
+electrical engineer iii,Berkeley County,45015,SC,SANTEE COOPER,Electrical Engineer III,1,interconnection engineer
+electrical engineer t & d planning,Penobscot County,23019,ME,Versant Power,ELECTRICAL ENGINEER T & D PLANNING,1,interconnection engineer
+electrical engineer transmission,Hennepin County,27053,MN,National Grid Renewables,Electrical Engineer Transmission,1,interconnection engineer
+electrical engineering division,Essex County,25009,MA,Town of Danvers,Electrical Engineering Division,2,interconnection engineer
+electrical engineering transmission planning,Maricopa County,4013,AZ,US Western Area Power Administration,Electrical Engineering Transmission Planning,1,interconnection engineer
+electrical power systems engineer,Cochise County,4003,AZ,Longroad Energy,Electrical Power Systems Engineer,1,interconnection engineer
+electrical power systems engineer,Cumberland County,23005,ME,Longroad Energy,Electrical Power Systems Engineer,2,interconnection engineer
+electrical power systems engineer distribution planning,King County,53033,WA,Seattle City Light,Electrical Power Systems Engineer Distribution Planning,1,interconnection engineer
+electrical power systems engineer transmission planning,King County,53033,WA,Seattle City Light,Electrical Power Systems Engineer Transmission Planning,1,interconnection engineer
+electrical services coordinator i sr,Bernalillo County,35001,NM,PNM Resources; Public Service Company of New Mexico (PNM),Electrical Services Coordinator I sr,4,interconnection reference
+electrical services coordinator i sr,Bernalillo County,35001,NM,"PNM; PNM Resources; PNM Resources, Inc; Public Service Company of New Mexico (PNM)",Electrical Services Coordinator I sr,4,interconnection reference
+electrical services coordinator i sr,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc",Electrical Services Coordinator I sr,4,interconnection reference
+electronics engineer,Clark County,53011,WA,Bonneville Power Administration,Electronics Engineer,3,interconnection engineer
+energy integration specialist,Middlesex County,25017,MA,National Grid,"Energy Integration Specialist, Screenings",4,interconnection reference
+energy interconnections program manager intern,Providence County,44007,RI,Rhode Island Energy,Energy Interconnections Program Manager Intern,2,interconnection reference
+energy management marketing specialist,Montrose County,8085,CO,US Western Area Power Administration,Energy Management and Marketing Specialist,1,interconnection reference
+energy settlements specialist,Stanislaus County,6099,CA,Turlock Irrigation District,Energy Settlements Specialist,2,interconnection reference
+energy system operator,Cameron County,48061,TX,Brownsville Public Utilities Board (BPUB),ENERGY SYSTEM OPERATOR DOQ,1,interconnection reference
+energy trading contract administration associate specialist,Los Angeles County,6037,CA,Southern California Edison (SCE),Energy Trading Contract Administration Associate Specialist,1,interconnection reference
+engineer,Worcester County,25027,MA,National Grid,Engineer,1,interconnection engineer
+engineer 2l central eng project development & delivery,New York County,36061,NY,Con Edison Company of New York,Engineer 2L Central Eng Project Development & Delivery,1,interconnection engineer
+engineer assoc sr,El Paso County,48141,TX,El Paso Electric Company,ENGINEER ASSOC SR,1,interconnection engineer
+engineer distributed energy resource der planning,Hillsborough County,33011,NH,Eversource Energy,Engineer Distributed Energy Resource DER Planning,1,interconnection engineer
+engineer distributed energy resource der planning,Norfolk County,25021,MA,Eversource Energy,Engineer – Distributed Energy Resource (DER) Planning (Hybrid),1,interconnection engineer
+engineer distribution integration 1 2 senior,Maricopa County,4013,AZ,Salt River Project,Engineer Distribution Integration 1 2 Senior,1,interconnection engineer
+engineer electrical planning design,Middlesex County,25017,MA,National Grid,"Engineer, Electrical Planning and Design",4,interconnection engineer
+engineer electrical planning design,Worcester County,25027,MA,National Grid,"Engineer, Electrical Planning and Design",2,interconnection engineer
+engineer i distribution plan,Allegheny County,42003,PA,Duquesne Light Company,Engineer I Distribution Plan,1,interconnection engineer
+engineer i distribution plan entry level,Allegheny County,42003,PA,Duquesne Light Company,Engineer I Distribution Plan Entry Level,1,interconnection engineer
+engineer i distribution planning entry level,Allegheny County,42003,PA,Duquesne Light Company,Engineer I Distribution Planning Entry Level,1,interconnection engineer
+engineer i ii iii,Lexington County,45063,SC,Dominion Energy,Engineer I II III,2,interconnection engineer
+engineer i ii iii electric transmission quality assurance,Henrico County,51087,VA,Dominion Energy,Engineer I II III Electric Transmission Quality Assurance,1,interconnection engineer
+engineer i ii sr electric system planning,Scott County,19163,IA,MidAmerican Energy Company,Engineer I II Sr Electric System Planning,2,interconnection engineer
+engineer i ii systems operations engineering,Mecklenburg County,37119,NC,Duke Energy Corporation,Engineer I II Systems Operations Engineering SOE,1,interconnection engineer
+engineer i iii,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Engineer I III,3,interconnection engineer
+engineer i iii,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc; Public Service Company of New Mexico (PNM)",Engineer I III,3,interconnection engineer
+engineer i iii,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc",Engineer I III,3,interconnection engineer
+engineer i iii,Bernalillo County,35001,NM,PNM,Engineer I III,3,interconnection engineer
+engineer i system protection engineering,Henrico County,51087,VA,Dominion Energy,Engineer I System Protection Engineering,1,interconnection engineer
+engineer i transmission substation,Miami-Dade County,12086,FL,NextEra Energy Resources,Engineer I Transmission Substation,1,interconnection engineer
+engineer ii,King County,53033,WA,Puget Sound Energy,Engineer II,1,interconnection engineer
+engineer ii distribution plan,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Engineer II Distribution Plan,2,interconnection engineer
+engineer ii distribution plan,Allegheny County,42003,PA,Duquesne Light Company,Engineer II Distribution Plan,2,interconnection engineer
+engineer ii distribution plan,Allegheny County,42003,PA,Duquesne Light,Engineer II Distribution Plan,2,interconnection engineer
+engineer ii iii power systems studies engineer,Henrico County,51087,VA,Dominion Energy,Engineer II III Power Systems Studies Engineer,1,interconnection engineer
+engineer ii iii systems operations engineering,Pinellas County,12103,FL,Duke Energy Corporation,Engineer II III Systems Operations Engineering SOE,1,interconnection engineer
+engineer iii,Berkeley County,45015,SC,SANTEE COOPER,Engineer III,1,interconnection engineer
+engineer iii,King County,53033,WA,Puget Sound Energy,Engineer III,2,interconnection engineer
+engineer iii senior engineer advanced grid automation standards,Mecklenburg County,37119,NC,Duke Energy Corporation,Engineer III Senior Engineer Advanced Grid Automation Standards,1,interconnection engineer
+engineer infrastructure fuels,Milwaukee County,55079,WI,We Energies,Engineer Infrastructure and Fuels,1,interconnection engineer
+engineer iso policy,Hartford County,9110,CT,Eversource Energy,Engineer ISO Policy,1,interconnection engineer
+engineer iso policy,Norfolk County,25021,MA,Eversource Energy,Engineer ISO Policy,1,interconnection engineer
+engineer project manager distribution interconnections planning,Fulton County,13121,GA,Georgia Power Company,Engineer Project Manager Distribution Interconnections Planning,1,interconnection engineer
+engineer system planning,Westchester County,36119,NY,New York Power Authority,System Planning Engineer,1,interconnection engineer
+engineer transmission,Orleans Parish,22071,LA,Entergy,Engineer Transmission,1,interconnection engineer
+engineer transmission facility scoping,Travis County,48453,TX,Lower Colorado River Authority,Engineer Transmission Facility Scoping,1,interconnection engineer
+engineering analyst senior transmission services,Tarrant County,48439,TX,Oncor Electric Delivery,Engineering Analyst Senior Transmission Services,1,interconnection engineer
+engineering associate ii transmission facility scoping,Travis County,48453,TX,Lower Colorado River Authority,Engineering Associate II Transmission Facility Scoping,2,interconnection engineer
+engineering leader transmission substation power system planning,Palm Beach County,12099,FL,NextEra Energy Resources,Engineering Leader - Transmission/Substation - Power System Planning,1,interconnection engineer
+engineering manager controls and communications,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Engineering Manager Controls and Communications,1,interconnection engineer
+engineering manager electrical planning and design,Worcester County,25027,MA,National Grid,"Engineering Manager, Electrical Planning and Design",1,interconnection engineer
+engineering manager power system planning,Palm Beach County,12099,FL,NextEra Energy Resources,Engineering Manager Power System Planning,1,interconnection engineer
+engineering manager transmission substation,Palm Beach County,12099,FL,NextEra Energy Resources,Engineering Manager Transmission Substation,1,interconnection engineer
+engineering services customer service representative i,Douglas County,8035,CO,CORE Electric Cooperative,ENGINEERING SERVICES CUSTOMER SERVICE REPRESENTATIVE I,2,interconnection engineer
+engineering supervisor,Travis County,48453,TX,Lower Colorado River Authority,Engineering Supervisor,1,interconnection engineer
+et planning modeling engineer ii iii,Henrico County,51087,VA,Dominion Energy,ET Planning Modeling Engineer II III,1,interconnection engineer
+expert gas interconnection manager,Contra Costa County,6013,CA,Pacific Gas and Electric Company,Expert Gas Interconnection Manager,1,interconnection reference
+expert grid innovation engineer,Alameda County,6001,CA,Pacific Gas and Electric Company,Grid Innovation Engineer Expert,1,interconnection engineer
+expert strategic analyst,Alameda County,6001,CA,Pacific Gas and Electric Company,Expert Strategic Analyst,1,interconnection reference
+finance team leader i,Ada County,16001,ID,Idaho Power Company,Finance Team Leader I,1,interconnection reference
+fulfillment project coordinator,Harris County,48201,TX,Sunnova Energy,Fulfillment Project Coordinator,2,interconnection reference
+fulfillment project coordinator,Harris County,48201,TX,Sunnova; Sunnova Energy,Fulfillment Project Coordinator,2,interconnection reference
+fulfillment project coordinator,Harris County,48201,TX,Sunnova,Fulfillment Project Coordinator,2,interconnection reference
+generation amp transmission interconnection specialist,Silver Bow County,30093,MT,NorthWestern Energy,Generation amp Transmission Interconnection Specialist,1,interconnection reference
+generation operations supervisor,Dane County,55025,WI,MADISON GAS AND ELECTRIC,Generation Operations Supervisor,1,interconnection reference
+generation transmission interconnection specialist,Silver Bow County,30093,MT,NorthWestern Energy,Generation Transmission Interconnection Specialist,1,interconnection reference
+generator interconnection engineer analyst,Jefferson County,1073,AL,Southern Company,Generator Interconnection Engineer Contract Analyst,1,interconnection engineer
+instrument controls engineer,Shelby County,1117,AL,Southern Company,Instrument and Controls Engineer,1,interconnection engineer
+interconnection coordinator,Washington County,41067,OR,Portland General Electric,Interconnection Coordinator,2,interconnection reference
+interconnection coordinator i,Allegheny County,42003,PA,Duquesne Light,Interconnection Coordinator I,3,interconnection reference
+interconnection coordinator i,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Interconnection Coordinator I,3,interconnection reference
+interconnection coordinator i,Allegheny County,42003,PA,Duquesne Light Company,Interconnection Coordinator I,3,interconnection reference
+interconnection manager,Alameda County,6001,CA,Pacific Gas and Electric Company,Interconnection Manager,1,interconnection reference
+interconnection planning distribution principal engineer,Fulton County,13121,GA,Southern Company,Interconnection Planning Distribution Principal Engineer,2,interconnection engineer
+interconnection planning distribution principal engineer,Fulton County,13121,GA,Georgia Power Company; Southern Company,Interconnection Planning Distribution Principal Engineer,2,interconnection engineer
+interconnection planning distribution principal engineer,Fulton County,13121,GA,Georgia Power Company,Interconnection Planning Distribution Principal Engineer,2,interconnection engineer
+interconnection planning engineer,Fulton County,13121,GA,Southern Company,Interconnection Planning Engineer,1,interconnection engineer
+interconnection planning engineer project mgr,Fulton County,13121,GA,Southern Company,Interconnection Planning Engineer Project Mgr,1,interconnection engineer
+interconnection services project manager,Jefferson County,1073,AL,Southern Company,Interconnection Services Project Manager,1,interconnection reference
+interconnection specialist,Palm Beach County,12099,FL,NextEra Energy Resources,Interconnection Specialist,1,interconnection reference
+interconnections planning engineer transmission planning,New York County,36061,NY,Con Edison Company of New York,Interconnections Planning Engineer Transmission Planning,2,interconnection engineer
+interconnections program manager,Providence County,44007,RI,PPL Corporation,Interconnections Program Manager,1,interconnection reference
+intern analytics,Milwaukee County,55079,WI,We Energies,Intern Analytics,1,interconnection reference
+intern engineering,Middlesex County,25017,MA,National Grid,"Summer 2025 Intern Program: Engineering (Eastern, MA)",2,interconnection engineer
+intern engineering,Middlesex County,25017,MA,National Grid,Intern Engineering,2,interconnection engineer
+intern engineering,Middlesex County,25017,MA,National Grid,"Intern Engineering; Summer 2025 Intern Program: Engineering (Eastern, MA)",2,interconnection engineer
+intern engineering,Onondaga County,36067,NY,National Grid,Intern Engineering,2,interconnection engineer
+internconnection specialist,Lehigh County,42077,PA,PPL Corporation,Internconnection Specialist,1,interconnection reference
+internconnection specialist sr interconnection specialist,Lehigh County,42077,PA,PPL Corporation,Internconnection Specialist Sr Interconnection Specialist,1,interconnection reference
+key account manager i ii iii sr,Jefferson County,21111,KY,PPL Corporation,Key Account Manager I II III Sr,1,interconnection reference
+key accounts senior advisor,Orange County,6059,CA,Southern California Edison (SCE),Key Accounts Senior Advisor,1,interconnection reference
+lead commercial services account manager,Middlesex County,25017,MA,National Grid,Lead Commercial Services Account Manager,3,interconnection reference
+lead consultant renewable energy connections customer energy integration cei,Albany County,36001,NY,National Grid,Lead Consultant Renewable Energy Connections Customer Energy Integration CEI,2,interconnection reference
+lead distribution cybersecurity analyst,Mecklenburg County,37119,NC,Duke Energy Corporation,Lead Distribution Cybersecurity Analyst,2,interconnection reference
+lead distribution cybersecurity analyst,Mecklenburg County,37119,NC,Duke Energy; Duke Energy Corporation,Lead Distribution Cybersecurity Analyst,2,interconnection reference
+lead eng elec plan & design,Worcester County,25027,MA,National Grid,Lead Eng Elec Plan & Design,1,interconnection reference
+lead engineer distribution system planning,Hartford County,9110,CT,Eversource Energy,Lead Engineer Distribution System Planning,2,interconnection engineer
+lead engineer electrical planning and design,Albany County,36001,NY,National Grid,Lead Engineer Electrical Planning and Design,1,interconnection engineer
+lead engineer electrical planning and design,Erie County,36029,NY,National Grid,Lead Engineer Electrical Planning and Design,2,interconnection engineer
+lead engineer electrical planning and design,Middlesex County,25017,MA,National Grid,Lead Engineer Electrical Planning and Design,2,interconnection engineer
+lead engineer electrical planning design,Middlesex County,25017,MA,National Grid,"Lead Engineer, Electrical Planning and Design",4,interconnection engineer
+lead engineer electrical planning design,Worcester County,25027,MA,National Grid,"Lead Engineer, Electrical Planning and Design",2,interconnection engineer
+lead engineer iv electric protection & control,Placer County,6061,CA,Liberty Utilities,Lead Engineer IV Electric Protection & Control,1,interconnection engineer
+lead engineer protection and controls,Norfolk County,25021,MA,Eversource Energy,"Lead Engineer, Protection and Controls (Hybrid)",1,interconnection engineer
+lead engineer standards and technology,Onondaga County,36067,NY,National Grid,Lead Engineer Standards and Technology,3,interconnection engineer
+lead engineer substation design engineering,Hartford County,9110,CT,Eversource Energy,Lead Engineer Substation Design Engineering,1,interconnection engineer
+lead engineer substation design engineering,Norfolk County,25021,MA,Eversource Energy,Lead Engineer Substation Design Engineering,1,interconnection engineer
+lead engineer systems operations engineering,Wake County,37183,NC,Duke Energy Corporation,Lead Engineer Systems Operations Engineering SOE,1,interconnection engineer
+lead engineer transmission,Hartford County,9110,CT,Eversource Energy,Lead Engineer Transmission,1,interconnection engineer
+lead engineer transmission planning,Douglas County,31055,NE,Omaha Public Power District,Lead Transmission Planning Engineer,1,interconnection engineer
+lead representative community customer management,Onondaga County,36067,NY,National Grid,Lead Representative Community and Customer Management,1,interconnection reference
+local government community coordinator lead,Santa Fe County,35049,NM,PNM Resources,Local Government Community Coordinator Lead,1,interconnection reference
+manager,Adams County,8001,CO,"Tri-State Generation and Transmission Association, Inc.",Manager,1,interconnection reference
+manager commercial services,Onondaga County,36067,NY,National Grid,Manager Commercial Services,2,interconnection reference
+manager community and customer management,Middlesex County,25017,MA,National Grid,"Manager, Community and Customer Management",2,interconnection reference
+manager construction interconnection commissioning scada,Palm Beach County,12099,FL,NextEra Energy Resources,Manager Construction Interconnection Commissioning SCADA,1,interconnection reference
+manager control center assistant,Hennepin County,27053,MN,Xcel Energy,Control Center Assistant Manager; Manager Control Center Assistant,2,interconnection reference
+manager control center assistant,Jefferson County,8059,CO,Xcel Energy,Manager Control Center Assistant,1,interconnection reference
+manager customer energy integration,Washington County,44009,RI,Rhode Island Energy,Manager Customer Energy Integration,2,interconnection reference
+manager distributed energy resource,Penobscot County,23019,ME,Versant Power,MANAGER DISTRIBUTED ENERGY RESOURCE,1,interconnection reference
+manager distribution planning,Sacramento County,6067,CA,Sacramento Municipal Utility District,Manager Distribution Planning,2,interconnection reference
+manager economic analysis and transmission strategy,Hartford County,9110,CT,Eversource Energy,Manager Economic Analysis and Transmission Strategy,1,interconnection reference
+manager grid operations,Solano County,6095,CA,Pacific Gas and Electric Company,Manager Grid Operations,1,interconnection reference
+manager integrated resource planning and generation analysis,Vanderburgh County,18163,IN,CenterPoint Energy,Manager Integrated Resource Planning and Generation Analysis,1,interconnection reference
+manager interconnection services,Palm Beach County,12099,FL,NextEra Energy Resources,Manager Interconnection Services,1,interconnection reference
+manager natural gas resources,King County,53033,WA,Puget Sound Energy,Manager Natural Gas Resources,1,interconnection reference
+manager project management office,Silver Bow County,30093,MT,NorthWestern Energy,Manager Project Management Office,1,interconnection reference
+manager projects engineering,Anchorage Municipality,2020,AK,Chugach Electric Association,Manager Projects Engineering,4,interconnection engineer
+manager protection and controls special projects,Norfolk County,25021,MA,Eversource Energy,Manager Protection and Controls Special Projects,1,interconnection reference
+manager telecommunications operations,Hillsborough County,12057,FL,Teco Energy,Manager Telecommunications Operations,1,interconnection reference
+manager transmission business management,Palm Beach County,12099,FL,NextEra Energy Resources,Manager Transmission Business Management,1,interconnection reference
+manager transmission development policy and contracts,Washington County,41067,OR,Portland General Electric,Manager Transmission Development Policy and Contracts,2,interconnection reference
+manager transmission development services,Grant County,53025,WA,Grant County Public Utility District,Manager Transmission Development Services,1,interconnection reference
+manager transmission interconnections engineering mgr,Travis County,48453,TX,Lower Colorado River Authority,Manager Transmission Interconnections Engineering Mgr,1,interconnection engineer
+manager transmission planning reliability,Richland County,45079,SC,"Central Electric Power Cooperative, Inc.",Manager of Transmission Planning and Reliability,1,interconnection reference
+network systems security analyst lead,Hillsborough County,12057,FL,Teco Energy,Network Systems Security Analyst Lead,1,interconnection reference
+operations data analyst expert,Alameda County,6001,CA,Pacific Gas and Electric Company,Operations Data Analyst Expert,1,interconnection reference
+operations manager renewable programs,Hartford County,9110,CT,Eversource Energy,Operations Manager Renewable Programs,1,interconnection reference
+planning engineer i ii,La Crosse County,55063,WI,Dairyland Power Cooperative,Planning Engineer I II,2,interconnection engineer
+principal electric program manager,Alameda County,6001,CA,Pacific Gas and Electric Company,Principal Electric Program Manager,2,interconnection reference
+principal electrical power systems engineer transmission planning,King County,53033,WA,Seattle City Light,Principal Electrical Power Systems Engineer Transmission Planning,1,interconnection engineer
+principal engineer,Jefferson County,1073,AL,Southern Company,"Principal Engineer; Principal, Engineer",3,interconnection engineer
+principal engineer,Jefferson County,1073,AL,Southern Company,Principal Engineer,3,interconnection engineer
+principal engineer,Jefferson County,1073,AL,Southern Company,"Principal, Engineer",3,interconnection engineer
+principal engineer,Maricopa County,4013,AZ,Salt River Project,Engineer Principal,1,interconnection engineer
+principal engineer dg standards and technology,Albany County,36001,NY,National Grid,Principal Engineer DG Standards and Technology,1,interconnection engineer
+principal engineer electrical planning and design,Albany County,36001,NY,National Grid,Principal Engineer Electrical Planning and Design,1,interconnection engineer
+principal engineer electrical planning design,Worcester County,25027,MA,National Grid,"Principal Engineer, Electrical Planning and Design",2,interconnection engineer
+principal engineer transmission substation power system planning,Palm Beach County,12099,FL,NextEra Energy Resources,Principal Engineer - Transmission/Substation - Power System Planning,3,interconnection engineer
+principal engineer transmission substation substation,Palm Beach County,12099,FL,NextEra Energy Resources,Principal Engineer - Transmission/Substation - Substation SME,1,interconnection engineer
+principal iso ferc regulatory analyst,Alameda County,6001,CA,Pacific Gas and Electric Company,Principal ISO FERC Regulatory Analyst,1,interconnection reference
+principal manager ferc advocacy,District of Columbia,11001,DC,Southern California Edison (SCE),Principal Manager FERC Advocacy,1,interconnection reference
+principal manager transmission and substation project development,Los Angeles County,6037,CA,Southern California Edison (SCE),Principal Manager of Transmission and Substation Project Development,1,interconnection reference
+principal operations distribution engineer,Maricopa County,4013,AZ,Salt River Project,Principal Engineer Distribution Operations,1,interconnection engineer
+principal partnership product manager,Alameda County,6001,CA,Pacific Gas and Electric Company,Principal Partnership Product Manager,1,interconnection reference
+principal production cost modeling engineer,Washington County,41067,OR,Portland General Electric,Principal Production Cost Modeling Engineer,1,interconnection engineer
+principal project manager,DuPage County,17043,IL,Exelon,Principal Project Manager,1,interconnection reference
+principal transmission planning engineer,Grant County,53025,WA,Grant County Public Utility District,Principal Transmission Planning Engineer,2,interconnection engineer
+principal transmission planning engineer,Palm Beach County,12099,FL,NextEra Energy Resources,Principal Transmission Planning Engineer,1,interconnection engineer
+product analyst senior product analyst interconnection,Mecklenburg County,37119,NC,Duke Energy Corporation,Product Analyst Senior Product Analyst Interconnection,1,interconnection reference
+production cost modeling engineer,Washington County,41067,OR,Portland General Electric,Production Cost Modeling Engineer,1,interconnection engineer
+program coordinator,Maricopa County,4013,AZ,Arizona Public Service - APS,Program Coordinator,2,interconnection reference
+program coordinator,Maricopa County,4013,AZ,Arizona Public Service; Arizona Public Service - APS,Program Coordinator,2,interconnection reference
+program coordinator,Maricopa County,4013,AZ,Arizona Public Service,Program Coordinator,2,interconnection reference
+program management advisor contracts,Los Angeles County,6037,CA,Southern California Edison (SCE),Program Management Advisor Contracts,1,interconnection reference
+program manager critical infrastructure protection,Sacramento County,6067,CA,Sacramento Municipal Utility District,Program Manager Critical Infrastructure Protection,1,interconnection reference
+project developer iii,Allegheny County,42003,PA,Duquesne Light Company,Project Developer III,1,interconnection reference
+project developer iv,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Project Developer IV,2,interconnection reference
+project developer iv,Allegheny County,42003,PA,Duquesne Light Company,Project Developer IV,2,interconnection reference
+project developer iv,Allegheny County,42003,PA,Duquesne Light,Project Developer IV,2,interconnection reference
+project director development,Hennepin County,27053,MN,Cooperative Energy Futures,Director of Project Development,1,interconnection reference
+project manager,Jefferson County,48245,TX,Entergy Corporation,Project Manager,1,interconnection reference
+project manager,Jefferson Parish,22051,LA,Entergy,Project Manager,1,interconnection reference
+project manager capital projects,Hinds County,28049,MS,Entergy,Project Manager Capital Projects,1,interconnection reference
+project manager i ii relay protection & controls engineer,Wake County,37183,NC,Duke Energy; Duke Energy Corporation,"Project Manager I II Relay , Protection & Controls Engineer",2,interconnection engineer
+project manager i ii relay protection & controls engineer,Wake County,37183,NC,Duke Energy,"Project Manager I II Relay , Protection & Controls Engineer",2,interconnection engineer
+project manager i ii relay protection & controls engineer,Wake County,37183,NC,Duke Energy Corporation,"Project Manager I II Relay , Protection & Controls Engineer",2,interconnection engineer
+project manager iii greenfield renewable developer,Denver County,8031,CO,Xcel Energy,Project Manager III Greenfield Renewable Developer,2,interconnection reference
+project manager iii solar & storage,King County,53033,WA,Puget Sound Energy,Project Manager III Solar & Storage,1,interconnection reference
+project manager nerc regulatory compliance i sr,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc; Public Service Company of New Mexico (PNM)",Project Manager NERC Regulatory Compliance I Sr,3,interconnection reference
+project manager nerc regulatory compliance i sr,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Project Manager NERC Regulatory Compliance I Sr,3,interconnection reference
+project manager nerc regulatory compliance i sr,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc",Project Manager NERC Regulatory Compliance I Sr,3,interconnection reference
+project manager sr staff cp,Jefferson County,48245,TX,Entergy,Project Manager Sr Staff CP,1,interconnection reference
+project mgr renewable,Fulton County,13121,GA,Southern Company,Project Mgr Renewable,1,interconnection reference
+protection control engineering specialist i,Ector County,48135,TX,Oncor Electric Delivery,Protection & Control Engineering Specialist I,1,interconnection engineer
+protection control engineering specialist intern,Ector County,48135,TX,Oncor Electric Delivery,Protection & Control Engineering Specialist Intern,1,interconnection engineer
+protection engineer i,Douglas County,31055,NE,Omaha Public Power District,Protection Engineer I,1,interconnection engineer
+quality assurance specialist incentive support non technical,Harris County,48201,TX,Sunnova Energy,"Quality Assurance Specialist (Incentive Support, Non-Technical)",1,interconnection reference
+quantitative risk analyst,King County,53033,WA,Puget Sound Energy,Quantitative Risk Analyst,2,interconnection reference
+rate framework systems application supervisor,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Rate Framework Systems Application Supervisor,1,interconnection reference
+regulatory compliance specialist,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Regulatory Compliance Specialist,3,interconnection reference
+regulatory compliance specialist,Allegheny County,42003,PA,Duquesne Light Company,Regulatory Compliance Specialist,3,interconnection reference
+regulatory generator interconnection senior advisor,Los Angeles County,6037,CA,Southern California Edison (SCE),Regulatory Generator Interconnection Senior Advisor,1,interconnection reference
+reliability policy manager,Bexar County,48029,TX,CPS Energy,Reliability Policy Manager,1,interconnection reference
+renewable assets electrical engineer,Saunders County,31155,NE,NiSource,Renewable Assets Electrical Engineer,1,interconnection engineer
+renewable assets electrical engineer specialist solar wind,Porter County,18127,IN,NiSource,Renewable Assets Electrical Engineer Specialist Solar Wind,1,interconnection engineer
+renewable energy installer liaison,Pima County,4019,AZ,Tucson Electric Power,Renewable Energy Installer Liaison,1,interconnection reference
+renewable energy project development manager,Douglas County,31055,NE,Omaha Public Power District,Renewable Energy Project Development Manager,1,interconnection reference
+renewable energy project devlopment manager,Douglas County,31055,NE,Omaha Public Power District,Renewable Energy Project Devlopment Manager,1,interconnection reference
+renewable procurement interconnection engineer engineering distributed generation,Fulton County,13121,GA,Southern Company,Renewable Procurement Interconnection Engineer Engineering Rep Distributed Generation,1,interconnection engineer
+renewable procurement project coordinator,Fulton County,13121,GA,Southern Company,Renewable Procurement Project Coordinator,3,interconnection reference
+renewable program development manager,Fulton County,13121,GA,Georgia Power Company,Renewable Program Development Manager,1,interconnection reference
+rto policy mgr,Orleans Parish,22071,LA,Entergy,Mgr RTO Policy,1,interconnection reference
+senior analyst transmission,Hartford County,9110,CT,Eversource Energy,Senior Analyst Transmission,1,interconnection reference
+senior cehe electric engineer,Harris County,48201,TX,CenterPoint Energy,Senior CEHE Electric Engineer,1,interconnection engineer
+senior consultant customer energy integration,Albany County,36001,NY,National Grid,Senior Consultant Customer Energy Integration,1,interconnection reference
+senior consultant renewable energy connections renewable natural gas,Onondaga County,36067,NY,National Grid,Senior Consultant Renewable Energy Connections Renewable Natural Gas,2,interconnection reference
+senior counsel,Alameda County,6001,CA,Pacific Gas and Electric Company,Senior Counsel,1,interconnection reference
+senior distributed energy resources engineer,Larimer County,8069,CO,Platte River Power Authority,Senior Distributed Energy Resources Engineer,2,interconnection engineer
+senior distribution cybersecurity analyst,Mecklenburg County,37119,NC,Duke Energy Corporation,Senior Distribution Cybersecurity Analyst,1,interconnection reference
+senior distribution engineer,Douglas County,31055,NE,Omaha Public Power District,Senior Distribution Engineer,3,interconnection engineer
+senior distribution planning engineer,Douglas County,31055,NE,Omaha Public Power District,Senior Distribution Planning Engineer,1,interconnection engineer
+senior egi business analyst,Alameda County,6001,CA,Pacific Gas and Electric Company,Senior EGI Business Analyst,1,interconnection reference
+senior egi interconnection manager esc,Alameda County,6001,CA,Pacific Gas and Electric Company,Senior EGI Interconnection Manager ESC,1,interconnection reference
+senior electrical engineer,Hennepin County,27053,MN,National Grid Renewables,Senior Electrical Engineer,2,interconnection engineer
+senior electrical engineer transmission relay,Harris County,48201,TX,CenterPoint Energy,Senior Electrical Engineer Transmission Relay,1,interconnection engineer
+senior engineer,King County,53033,WA,Puget Sound Energy,Senior Engineer,1,interconnection engineer
+senior engineer distributed energy resource der planning,Norfolk County,25021,MA,Eversource Energy,Senior Engineer – Distributed Energy Resource (DER) Planning (Hybrid),1,interconnection engineer
+senior engineer electrical asset management,Onondaga County,36067,NY,National Grid,Senior Engineer Electrical Asset Management,1,interconnection engineer
+senior engineer electrical planning design,Erie County,36029,NY,National Grid,Senior Engineer Electrical Planning and Design,2,interconnection engineer
+senior engineer electrical planning design,Onondaga County,36067,NY,National Grid,Senior Engineer Electrical Planning and Design,4,interconnection engineer
+senior engineer electrical planning design,Worcester County,25027,MA,National Grid,"Senior Engineer, Electrical Planning and Design",6,interconnection engineer
+senior engineer engineer iii systems operations engineering,Pinellas County,12103,FL,Duke Energy Corporation,Senior Engineer or Engineer III Systems Operations Engineering SOE,1,interconnection engineer
+senior engineer iso policy,Hartford County,9110,CT,Eversource Energy,Senior Engineer ISO Policy,1,interconnection engineer
+senior engineering consultant customer energy integration,Albany County,36001,NY,National Grid,Senior Engineering Consultant Customer Energy Integration,2,interconnection engineer
+senior gas interconnection manager,Contra Costa County,6013,CA,Pacific Gas and Electric Company,Senior Gas Interconnection Manager,1,interconnection reference
+senior grid operations specialist,Washington County,41067,OR,Portland General Electric,Senior Grid Operations Specialist,1,interconnection reference
+senior manager clean energy transition beneficial electrification strategic partnerships,Madison County,17119,IL,Ameren,Senior Manager Clean Energy Transition Beneficial Electrification & Strategic Partnerships,1,interconnection reference
+senior manager distributed energy resource management,Adams County,8001,CO,"Tri-State Generation and Transmission Association, Inc.",Senior Manager Distributed Energy Resource Management,3,interconnection reference
+senior manager distributed energy resource management,Adams County,8001,CO,"Tri-State Generation and Transmission Association Inc.; Tri-State Generation and Transmission Association, Inc.",Senior Manager Distributed Energy Resource Management,3,interconnection reference
+senior manager distributed energy resource management,Adams County,8001,CO,Tri-State Generation and Transmission Association Inc.,Senior Manager Distributed Energy Resource Management,3,interconnection reference
+senior manager interconnection services,Palm Beach County,12099,FL,NextEra Energy Resources,Senior Manager Interconnection Services,1,interconnection reference
+senior manager interconnection support,Tarrant County,48439,TX,Oncor Electric Delivery,Senior Manager Interconnection Support,1,interconnection reference
+senior manager system design,Maricopa County,4013,AZ,Salt River Project,Senior Manager of System Design,1,interconnection reference
+senior manager transmission business management,Palm Beach County,12099,FL,NextEra Energy Resources,Senior Manager Transmission Business Management,1,interconnection reference
+senior principal transmission planning engineer,Hillsborough County,12057,FL,"Seminole Electric Cooperative, Inc.",SENIOR PRINCIPAL TRANSMISSION PLANNING ENGINEER,1,interconnection engineer
+senior project coordinator distributed generation,Worcester County,25027,MA,National Grid,"Senior Project Coordinator, Distributed Generation",1,interconnection reference
+senior quantitative risk analyst,King County,53033,WA,Puget Sound Energy,Senior Quantitative Risk Analyst,1,interconnection reference
+senior staff attorney,Oklahoma County,40109,OK,Western Farmers Electric Cooperative,Senior Staff Attorney,1,interconnection reference
+senior substation engineer electrical planning and design,Worcester County,25027,MA,National Grid,"Senior Substation Engineer, Electrical Planning and Design",2,interconnection engineer
+senior substation engineer electrical planning and design,Worcester County,25027,MA,National Grid,"Senior Substation Engineer Electrical Planning and Design; Senior Substation Engineer, Electrical Planning and Design",2,interconnection engineer
+senior substation engineer electrical planning and design,Worcester County,25027,MA,National Grid,Senior Substation Engineer Electrical Planning and Design,2,interconnection engineer
+senior technology planning specialist,New York County,36061,NY,Con Edison Company of New York,Senior Technology Planning Specialist,1,interconnection reference
+senior transmission engineer,Hartford County,9110,CT,Eversource Energy,Senior Engineer Transmission,1,interconnection engineer
+senior transmission planning engineer,Alameda County,6001,CA,Pacific Gas and Electric Company,Senior Transmission Planning Engineer,1,interconnection engineer
+senior transmission planning engineer,Denver County,8031,CO,NextEra Energy Resources,Senior Transmission Planning Engineer,1,interconnection engineer
+snr dg project coordinator,Worcester County,25027,MA,National Grid,Snr DG Project Coordinator,2,interconnection reference
+specialist research & development transmission planning sr,Davidson County,47037,TN,Tennessee Valley Authority,Specialist Research & Development Transmission Planning Sr,1,interconnection reference
+specialist transmission system operator ii,Hamilton County,47065,TN,Tennessee Valley Authority,Specialist Transmission System Operator II,1,interconnection reference
+sr cip compliance specialist,Allegheny County,42003,PA,Duquesne Light Company,Sr CIP Compliance Specialist,1,interconnection reference
+sr cip regulatory compliance spec i,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Sr CIP Regulatory Compliance Spec I,2,interconnection reference
+sr cip regulatory compliance spec i,Allegheny County,42003,PA,Duquesne Light Company,Sr CIP Regulatory Compliance Spec I,2,interconnection reference
+sr engineer,King County,53033,WA,Puget Sound Energy,Sr Engineer,1,interconnection engineer
+sr engineer,Multnomah County,41051,OR,PacifiCorp,Sr Engineer,2,interconnection engineer
+sr engineer,Rockland County,36087,NY,"Orange and Rockland Utilities, Inc.",Sr Engineer,1,interconnection engineer
+sr engineer electrical engineering engineering planning,Rockland County,36087,NY,"Orange and Rockland Utilities, Inc.",Sr Engineer Electrical Engineering Engineering Planning,1,interconnection engineer
+sr engineer energy storage,Palm Beach County,12099,FL,NextEra Energy Resources,Sr PGD Engineer - Energy Storage,2,interconnection engineer
+sr interconnection specialist,Lehigh County,42077,PA,PPL Corporation,Sr Interconnection Specialist,1,interconnection reference
+sr interconnection specialist,Travis County,48453,TX,Lower Colorado River Authority,Interconnection Specialist Sr,1,interconnection reference
+sr manager cip regulatory compliance,Allegheny County,42003,PA,Duquesne Light Company,Sr Manager CIP Regulatory Compliance,1,interconnection reference
+sr mgr cip regulatory compliance,Allegheny County,42003,PA,Duquesne Light; Duquesne Light Company,Sr Mgr CIP Regulatory Compliance,2,interconnection reference
+sr mgr cip regulatory compliance,Allegheny County,42003,PA,Duquesne Light Company,Sr Mgr CIP Regulatory Compliance,2,interconnection reference
+sr operations engineer,Kent County,26081,MI,Consumers Energy,Sr Operations Engineer,1,interconnection engineer
+sr power system coordinator system operator,Douglas County,13097,GA,Georgia Power Company; Southern Company,Sr Power System Coordinator System Operator,2,interconnection reference
+sr product owner interconnection,Mecklenburg County,37119,NC,Duke Energy Corporation,Sr Product Owner Interconnection,1,interconnection reference
+sr project lead late stage projects,Hennepin County,27053,MN,National Grid Renewables,Sr Project Lead Late Stage Projects,1,interconnection reference
+sr project management consultant e & c,Palm Beach County,12099,FL,NextEra Energy Resources,Sr Project Management Consultant E & C,2,interconnection reference
+sr project manager e & c,Palm Beach County,12099,FL,NextEra Energy Resources,Sr Project Manager E & C,1,interconnection reference
+sr regulatory specialist,Salem County,34033,NJ,Exelon; Exelon Corporation,Sr Regulatory Specialist,2,interconnection reference
+sr regulatory specialist,Salem County,34033,NJ,Exelon,Sr Regulatory Specialist,2,interconnection reference
+sr regulatory specialist,Salem County,34033,NJ,Exelon Corporation,Sr Regulatory Specialist,2,interconnection reference
+sr telecom engineer,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),ENGINEER TELECOM SR,2,interconnection engineer
+sr telecom engineer,Bernalillo County,35001,NM,"PNM Resources, Inc; Public Service Company of New Mexico (PNM)",ENGINEER TELECOM SR,2,interconnection engineer
+sr telecom engineer,Bernalillo County,35001,NM,"PNM Resources, Inc",ENGINEER TELECOM SR,2,interconnection engineer
+sr telecommunications engineer,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Sr Telecommunications Engineer,1,interconnection engineer
+sr trans system operator,DuPage County,17043,IL,Exelon,Sr Trans System Operator,1,interconnection reference
+staff attorney,Cleveland County,40027,OK,Western Farmers Electric Cooperative,Staff Attorney; Staff Attorney Post,4,interconnection reference
+staff attorney,Oklahoma County,40109,OK,Western Farmers Electric Cooperative,Staff Attorney; Staff Attorney Post,2,interconnection reference
+staff engineer,Wayne County,26163,MI,DTE Energy,Engineer Staff,1,interconnection engineer
+staff interconnection specialist,Multnomah County,41051,OR,Portland General Electric,Staff Interconnection Specialist,1,interconnection reference
+staff senior training simulator specialist,Washington County,41067,OR,Portland General Electric,Staff Senior Training Simulator Specialist,1,interconnection reference
+staff senior transmission services specialist,Washington County,41067,OR,Portland General Electric,Staff Senior Transmission Services Specialist,2,interconnection reference
+student intern renewable energy,Pima County,4019,AZ,Tucson Electric Power,Student Intern Renewable Energy,1,interconnection reference
+study engineer,Penobscot County,23019,ME,Versant Power,STUDY ENGINEER,1,interconnection engineer
+supervising engineer distribution planning,Madison County,17119,IL,Ameren,Supervising Engineer Distribution Planning,1,interconnection engineer
+supervising engineer interconnections,Providence County,44007,RI,PPL Corporation,Supervising Engineer Interconnections,1,interconnection engineer
+supervisor customer energy integration,Lehigh County,42077,PA,PPL Corporation,Supervisor Customer Energy Integration,1,interconnection reference
+supervisor distributed energy resource interconnections,King County,53033,WA,Puget Sound Energy,Supervisor Distributed Energy Resource Interconnections,1,interconnection reference
+supervisor electric project management,Fresno County,6019,CA,Pacific Gas and Electric Company,Supervisor Electric Project Management,1,interconnection reference
+supervisor product management,Alameda County,6001,CA,Pacific Gas and Electric Company,Supervisor Product Management,1,interconnection reference
+supervisor project controls,Alameda County,6001,CA,Pacific Gas and Electric Company,Supervisor Project Controls,1,interconnection reference
+supervisor protection and control,Lee County,12071,FL,LCEC,Supervisor Protection and Control,2,interconnection reference
+supervisor substation engineering spe data communications,Henrico County,51087,VA,Dominion Energy,Supervisor Substation Engineering SPE Data Communications,1,interconnection engineer
+supervisor transmission and operations planning,La Crosse County,55063,WI,Dairyland Power Cooperative,Supervisor Transmission and Operations Planning,2,interconnection reference
+supervisor transmission services,King County,53033,WA,Puget Sound Energy,Supervisor Transmission Services,2,interconnection reference
+supervisor transmission technical services,Maricopa County,4013,AZ,Arizona Public Service,Supervisor Transmission Technical Services,1,interconnection reference
+supervisor transmission technician services,Maricopa County,4013,AZ,Arizona Public Service - APS,Supervisor Transmission Technician Services,1,interconnection reference
+supervisory public utilities specialist,Clark County,53011,WA,Bonneville Power Administration,Supervisory Public Utilities Specialist Contracts,1,interconnection reference
+supv privatization opers & construction,Bell County,48027,TX,Dominion Energy,Supv Privatization Opers & Construction,1,interconnection reference
+supv transmission planning,Jefferson County,1073,AL,Southern Company,Supv Transmission Planning,3,interconnection reference
+system operations planner outage coordinator senior,Maricopa County,4013,AZ,Arizona Public Service - APS,System Operations Planner Outage Coordinator Senior,1,interconnection reference
+system operator,Clark County,21049,KY,East Kentucky Power Cooperative,System Operator,1,interconnection reference
+system planning engineer i,Westchester County,36119,NY,New York Power Authority,System Planning Engineer I,2,interconnection engineer
+system planning engineer ii,Westchester County,36119,NY,New York Power Authority,System Planning Engineer II,2,interconnection engineer
+system planning manager,Palm Beach County,12099,FL,NextEra Energy Resources,System Planning Manager,1,interconnection reference
+system protection engineering manager,Contra Costa County,6013,CA,Pacific Gas and Electric Company,Manager System Protection Engineering,1,interconnection engineer
+systems engineer,Hartford County,9110,CT,Eversource Energy,Systems Engineer,1,interconnection engineer
+systems planning manager,Saratoga County,36091,NY,NextEra Energy Resources,Systems Planning Manager,1,interconnection reference
+technical associate ep engineering planning distributed energy services ev,Westchester County,36119,NY,Con Edison,Technical Associate EP Engineering Planning Distributed Energy Services EV,1,interconnection engineer
+telecommunications engineer,Hartford County,9110,CT,Eversource Energy,Telecommunications Engineer,1,interconnection engineer
+tranmission account representative,Denver County,8031,CO,Xcel Energy,Tranmission Account Representative,2,interconnection reference
+trans contract srvcs analyst,Maricopa County,4013,AZ,Arizona Public Service,Trans Contract Srvcs Analyst,1,interconnection reference
+transmission account manager,Salt Lake County,49035,UT,PacifiCorp,Transmission Account Manager,2,interconnection reference
+transmission account representative,Hennepin County,27053,MN,Xcel Energy,Transmission Account Representative,1,interconnection reference
+transmission contract account representative,Hennepin County,27053,MN,Xcel Energy,Transmission Contract Account Representative,2,interconnection reference
+transmission contract account representative engineering,Hennepin County,27053,MN,Xcel Energy,Transmission Contract Account Representative Engineering,1,interconnection engineer
+transmission contracts manager,Adams County,8001,CO,"Tri-State Generation and Transmission Association, Inc.",Transmission Contracts Manager,1,interconnection reference
+transmission interconnections manager,Blanco County,48031,TX,Pedernales Electric Cooperative,Transmission Interconnections Manager,5,interconnection reference
+transmission line design engineer,Fresno County,6019,CA,Pacific Gas and Electric Company,Transmission Line Design Engineer,1,interconnection engineer
+transmission line design engineer,Yolo County,6113,CA,Pacific Gas and Electric Company,Transmission Line Design Engineer,1,interconnection engineer
+transmission operations supervisor,Madison County,17119,IL,Ameren,Transmission Operations Supervisor,1,interconnection reference
+transmission owner policy analyst i ii iii,Henrico County,51087,VA,Dominion Energy,Transmission Owner Policy Analyst I II III,1,interconnection reference
+transmission planning chief engineer,Jefferson County,1073,AL,Southern Company,Transmission Planning Chief Engineer,1,interconnection engineer
+transmission planning engineer,Alameda County,6001,CA,Pacific Gas and Electric Company,Transmission Planning Engineer,1,interconnection engineer
+transmission planning engineer,Bernalillo County,35001,NM,"PNM Resources, Inc",Transmission Planning Engineer,1,interconnection engineer
+transmission planning engineer,Jefferson County,1073,AL,Southern Company,Engineer Transmission Planning,6,interconnection engineer
+transmission planning engineer,Jefferson County,1073,AL,Southern Company,Engineer Transmission Planning; Transmission Planning Engineer,6,interconnection engineer
+transmission planning engineer,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer,6,interconnection engineer
+transmission planning engineer,Lake County,18089,IN,NiSource,Transmission Planning Engineer,1,interconnection engineer
+transmission planning engineer electric machines,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer Electric Machines,1,interconnection engineer
+transmission planning engineer entry level,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer Entry level Emphasis,1,interconnection engineer
+transmission planning engineer equipment,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer Equipment Application Emphasis,2,interconnection engineer
+transmission planning engineer i ii iii iv senior,Pima County,4019,AZ,Tucson Electric Power,Transmission Planning Engineer I II III IV Senior,2,interconnection engineer
+transmission planning engineer i iv,Bernalillo County,35001,NM,Public Service Company of New Mexico (PNM),Engineer I IV Transmission Planning; Transmission Planning Engineer I IV,7,interconnection engineer
+transmission planning engineer i iv,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc; Public Service Company of New Mexico (PNM)",Engineer I IV Transmission Planning; Transmission Planning Engineer I IV,7,interconnection engineer
+transmission planning engineer i iv,Bernalillo County,35001,NM,"PNM; PNM Resources, Inc",Engineer I IV Transmission Planning; Transmission Planning Engineer I IV,7,interconnection engineer
+transmission planning engineer power electronics,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer (Power Electronics Emphasis),1,interconnection engineer
+transmission planning engineer power quality emphasis,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer Power Quality Emphasis,1,interconnection engineer
+transmission planning engineer stability emphasis,Jefferson County,1073,AL,Southern Company,Transmission Planning Engineer Stability Emphasis,4,interconnection engineer
+transmission planning generation strategic engineer,Jefferson County,1073,AL,Southern Company,Transmission Planning Generation & Strategic Engineer,4,interconnection engineer
+transmission planning project manager principal engineer,Fulton County,13121,GA,Southern Company,Transmission Planning Project Manager Principal Engineer,1,interconnection engineer
+transmission planning reliability engineer i ii iii senior,Oklahoma County,40109,OK,Western Farmers Electric Cooperative,Transmission Planning Reliability Engineer I II III Senior,1,interconnection engineer
+transmission planning stability and special studies engineer power electronics,Jefferson County,1073,AL,Southern Company,Transmission Planning - Stability and Special Studies Engineer - Power Electronics,1,interconnection engineer
+transmission planning stability special studies engineer,Jefferson County,1073,AL,Southern Company,Transmission Planning - Stability and Special Studies Engineer,1,interconnection engineer
+transmission planning strategy development contract analyst,Maricopa County,4013,AZ,Salt River Project,Transmission Planning Strategy Development Contract Analyst,1,interconnection reference
+transmission planning supervisor,Jefferson County,1073,AL,Southern Company,Transmission Planning Supervisor,4,interconnection reference
+transmission planning transmission planner,Fulton County,13121,GA,Southern Company,Transmission Planning Transmission Planner,2,interconnection reference
+transmission policy & contracts regulatory compliance consultant,King County,53033,WA,Puget Sound Energy,Regulatory Compliance Consultant Transmission Policy & Contracts,1,interconnection reference
+transmission policy & contracts regulatory policy consultant,King County,53033,WA,Puget Sound Energy,Regulatory Policy Consultant Transmission Policy & Contracts,1,interconnection reference
+transmission policy & contracts senior regulatory compliance analyst,King County,53033,WA,Puget Sound Energy,Senior Regulatory Compliance Analyst Transmission Policy & Contracts,1,interconnection reference
+transmission rate analyst,Adams County,8001,CO,"Tri-State Generation and Transmission Association, Inc.",Transmission Rate Analyst,1,interconnection reference
+transmission rate analyst i ii iii senior,Adams County,8001,CO,"Tri-State Generation and Transmission Association Inc.; Tri-State Generation and Transmission Association, Inc.",Transmission Rate Analyst I II III Senior,4,interconnection reference
+transmission rate analyst i ii iii senior,Adams County,8001,CO,"Tri-State Generation and Transmission Association, Inc.",Transmission Rate Analyst I II III Senior,4,interconnection reference
+transmission rate analyst i ii iii senior,Adams County,8001,CO,Tri-State Generation and Transmission Association Inc.,Transmission Rate Analyst I II III Senior,4,interconnection reference
+transmission rates financial analyst intern,Hartford County,9110,CT,Eversource Energy,Transmission Rates Financial Analyst Intern,1,interconnection reference
+transmission scada engineer iii sr engineer,Mecklenburg County,37119,NC,Duke Energy Corporation,Transmission SCADA Engineer III Sr Engineer,2,interconnection engineer
+transmission scada engineer iii sr engineer,Mecklenburg County,37119,NC,Duke Energy; Duke Energy Corporation,Transmission SCADA Engineer III Sr Engineer,2,interconnection engineer
+transmission scada engineer iii sr engineer,Mecklenburg County,37119,NC,Duke Energy,Transmission SCADA Engineer III Sr Engineer,2,interconnection engineer
+transmission scheduling & service requests specialist,Clackamas County,41005,OR,PacifiCorp,Transmission Scheduling & Service Requests Specialist,1,interconnection reference
+transmission scheduling & service requests specialist,Multnomah County,41051,OR,PacifiCorp,Transmission Scheduling & Service Requests Specialist,2,interconnection reference
+transmission switchyard engineering leader,Palm Beach County,12099,FL,NextEra Energy Resources,Transmission Switchyard Engineering Leader,1,interconnection engineer
+transmission system control operator apprentice,Hall County,31079,NE,Nebraska Public Power District,Transmission System Control Operator Apprentice,1,interconnection reference
+transmission system operator,Clark County,21049,KY,East Kentucky Power Cooperative,System Operator Transmission,2,interconnection reference
+transmission system operator,Douglas County,31055,NE,Omaha Public Power District,Transmission System Operator,2,interconnection reference
+utility specialist sfpuc enterprise,San Francisco County,6075,CA,San Francisco Public Utilities Commission,Utility Specialist SFPUC Enterprise,1,interconnection reference
