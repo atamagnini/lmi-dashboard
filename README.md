@@ -83,7 +83,7 @@ lmi-dashboard/
 
 ## Architecture Diagram
 
-```mermaid
+```
 flowchart LR
   A[WP Page] --> B[Shortcode: lmi_dashboard]
   B --> C[Mount React App]
