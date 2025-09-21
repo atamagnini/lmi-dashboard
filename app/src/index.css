@@ -1,11 +1,9 @@
-/* Simple, readable styles for the dashboard */
 .lmi-wrap {
   font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
   padding: 12px 20px;
   width: 90vw;
-  /* center a full-bleed block sized in vw */
-  margin-left: calc(50% - 45vw);  /* <- antes tenías 50vw */
-  margin-right: calc(50% - 45vw); /* <- idem */
+  margin-left: calc(50% - 45vw);
+  margin-right: calc(50% - 45vw);
   box-sizing: border-box;
 }
 
@@ -14,13 +12,10 @@
 .lmi-subtitle { margin: 0 0 8px; font-size: 18px; }
 .lmi-card { background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; margin-bottom: 14px; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
 .lmi-chart { width: 100%; height: 320px; }
-/* Bar value labels */
 .lmi-barlabel { font-size: 12px; fill: #111827; }
 
-/* Slightly bigger subtitle for hierarchy + spacing tweaks */
 .lmi-subtitle { margin-bottom: 10px; font-size: 19px; }
 
-/* Taller chart area to give room for labels */
 .lmi-chart { width: 100%; height: 340px; }
 
 .lmi-grid {

@@ -5,22 +5,15 @@ import {
   XAxis, YAxis, CartesianGrid, Tooltip, Legend, Treemap
 } from 'recharts'
 
-/**
- * Formats big integers with thousands separators.
- */
 function formatNumber(n) {
   return (typeof n === 'number') ? n.toLocaleString() : n
 }
 
-/**
- * Shortens long company names to keep x-axis clean.
- */
 function shortName(name, max = 16) {
   if (!name) return ''
   return name.length > max ? name.slice(0, max - 1) + '…' : name
 }
 
-/** Custom tooltip for the bar chart */
 const BarTooltip = ({ active, payload, label }) => {
   if (!active || !payload || !payload.length) return null
   const v = payload[0].value
@@ -32,11 +25,9 @@ const BarTooltip = ({ active, payload, label }) => {
   )
 }
 
-/** Custom value label on top of each bar */
 const ValueLabel = (props) => {
   const { x, y, width, value } = props
   if (value == null) return null
-  // avoid drawing label if the bar is too thin (prevents overlap)
   if (width < 12) return null
   return (
     <text
@@ -54,7 +45,7 @@ export default function App() {
   const [rows, setRows] = useState([])
   const [error, setError] = useState(null)
 
-  // Read dataUrl from global OR from the mount node data attribute (fallback)
+  // Read dataUrl from global
   const mount = typeof document !== 'undefined' ? document.getElementById('lmi-dashboard-root') : null
   const dataUrl =
     (typeof window !== 'undefined' && window.LMI_DASHBOARD && window.LMI_DASHBOARD.dataUrl) ||
@@ -79,7 +70,7 @@ export default function App() {
     return () => { isMounted = false }
   }, [dataUrl])
 
-  // 1) Top 10 companies (sum counts per company)
+  //´plot 1
   const topCompanies = useMemo(() => {
     const map = new Map()
     for (const r of rows) {
@@ -91,7 +82,7 @@ export default function App() {
       .slice(0, 10)
   }, [rows])
 
-  // 2) Top states for treemap (same as antes)
+  // Plot 2
   const treemapStates = useMemo(() => {
     const map = new Map()
     for (const r of rows) {
@@ -177,7 +168,7 @@ export default function App() {
             </div>
         </div>
 
-        {/* === Treemap stays as second chart === */}
+        {/* === Treemap is 2nd chart === */}
         <div className="lmi-card">
             <h3 className="lmi-subtitle">Top 10 States by Job Postings</h3>
             <div className="lmi-chart">

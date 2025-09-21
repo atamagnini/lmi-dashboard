@@ -1,9 +1,8 @@
 <?php
 /**
  * Plugin Name: LMI Dashboard
- * Description: Shortcode [lmi_dashboard] to mount a React app and render charts from a local CSV (Vite build).
- * Version: 1.0.3
- * Author: You
+ * Description: Shortcode [lmi_dashboard] to mount a React app and render charts from a local CSV (Vite build)
+ * Author: Antonela Tamagnini
  */
 
 if (!defined('ABSPATH')) { exit; }
@@ -11,7 +10,6 @@ if (!defined('ABSPATH')) { exit; }
 define('LMI_DASHBOARD_DIR', plugin_dir_path(__FILE__));
 define('LMI_DASHBOARD_URL', plugin_dir_url(__FILE__));
 
-/* Ensure our bundle loads as an ES module */
 add_filter('script_loader_tag', function ($tag, $handle, $src) {
     if ($handle === 'lmi-dashboard-app') {
         return '<script type="module" src="' . esc_url($src) . '"></script>';
@@ -42,7 +40,6 @@ function lmi_dashboard_get_assets_from_manifest() {
     $json = json_decode(@file_get_contents($manifest_path), true);
     if (!is_array($json)) return ['js' => null, 'css' => []];
 
-    // Prefer "index.html"; fallback to first entry with isEntry=true
     $entry = null;
     if (isset($json['index.html'])) {
         $entry = $json['index.html'];
@@ -53,7 +50,6 @@ function lmi_dashboard_get_assets_from_manifest() {
     }
     if (!$entry || empty($entry['file'])) return ['js' => null, 'css' => []];
 
-    // Paths in manifest are relative to build/ root
     $js  = 'build/' . ltrim($entry['file'], '/');
     $css = [];
     if (!empty($entry['css']) && is_array($entry['css'])) {
@@ -69,21 +65,18 @@ function lmi_dashboard_shortcode() {
     $assets = lmi_dashboard_get_assets_from_manifest();
     $hint = '';
 
-    // CSV absolute url inside the plugin
     $csv_url = LMI_DASHBOARD_URL . 'assets/Sample_Dataset.csv';
 
-    // Enqueue CSS
     if (!empty($assets['css'])) {
         foreach ($assets['css'] as $i => $rel) {
             wp_enqueue_style('lmi-dashboard-style-' . $i, LMI_DASHBOARD_URL . $rel, [], null);
         }
     }
 
-    // Enqueue JS
     if (!empty($assets['js'])) {
         wp_register_script('lmi-dashboard-app', LMI_DASHBOARD_URL . $assets['js'], [], null, true);
 
-        // 1) Global config (module-safe)
+        // 1. Global config (module-safe)
         wp_add_inline_script(
             'lmi-dashboard-app',
             'window.LMI_DASHBOARD = { dataUrl: ' . wp_json_encode($csv_url) . ' };',
@@ -95,7 +88,7 @@ function lmi_dashboard_shortcode() {
         $hint = "\n<!-- LMI Dashboard: build not found. Run `npm run build` in /app -->\n";
     }
 
-    // 2) Fallback via data attribute on mount node
+    // 2. Fallback via data attribute on mount node
     return $hint . '<div id="lmi-dashboard-root" data-csv-url="' . esc_attr($csv_url) . '" style="min-height:420px">Loading LMI Dashboard...</div>';
 }
 add_shortcode('lmi_dashboard', 'lmi_dashboard_shortcode');
